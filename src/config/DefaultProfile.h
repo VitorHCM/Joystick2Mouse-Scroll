@@ -53,8 +53,8 @@ const int C_SCROLL_MODE_DEADZONE = 120;
 // Inversao independente dos eixos (true = invertido)
 const bool C_INVERT_X1 = false;
 const bool C_INVERT_Y1 = false;
-const bool C_INVERT_X2 = false;
-const bool C_INVERT_Y2 = false;
+const bool C_INVERT_X2 = true;
+const bool C_INVERT_Y2 = true;
 
 // Velocidade maxima do cursor
 const int C_MAX_MOUSE_SPEED = 12;
